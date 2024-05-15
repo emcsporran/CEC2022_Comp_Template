@@ -8,4 +8,4 @@ The purpose of the competition was to challenge contestants to solve a technical
 
 The competition case document is written in both English and French, due to the national nature of the competition.
 
-For more information on the compeition see the [CFES|FCEG Website](https://cfes.ca/cec/).
+For more information on the general competition organization see the [CFES|FCEG Website](https://cfes.ca/cec/).
