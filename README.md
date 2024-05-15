@@ -1,4 +1,4 @@
-# CEC2022_Competition
+# CEC2022_Comp_Template
 
 This repository was created for the 2022 Canadian Engineering Competition Programming Challenge, by myself Eleanor McSporran and Ethan Garnier.
 
